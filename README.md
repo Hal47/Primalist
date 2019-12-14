@@ -28,10 +28,6 @@ https://corps.ouro-comdev.com/index.php?title=Server_Setup_for_Making_Bins
 
 To Install:
 
-//////////////////////////////////////////////
-///// A. Unmodified Ouroboros V2i1 servers ///
-//////////////////////////////////////////////
-
 1. BACKUP YOUR FILES!!!  You never know when something can go horribly ary, so ensure your data\bin and data\server\bin are backed up to revert if necessary.
 
 2. Place the files in the Primalist\data and Primalist\serverdata folders into the respective "YourServerName"\data and "YourServerName"\serverdata folders.
