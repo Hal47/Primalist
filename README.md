@@ -1,0 +1,2 @@
+# Primalist
+Primalist Archetype files
