@@ -20,7 +20,9 @@ Secondary: Primal Gifts (defense/support)
 
 //////////////////////////////////////////
 
-Note: These instructions assume that you have a server set-up for  binning in order to incorporate custom content into your server environment.  If you do not, instructions to set-up a binning server can be found at:  
+Note1: At this time, this archetype is only available to server owners that run Ouroboros V2I1.  I will post an update to this repo if and when I can post bins for I25/I26 versions.
+
+Note2: These instructions assume that you have a server set-up for  binning in order to incorporate custom content into your server environment.  If you do not, instructions to set-up a binning server can be found at:  
 
 https://corps.ouro-comdev.com/index.php?title=Server_Setup_for_Making_Bins
 
@@ -28,17 +30,22 @@ https://corps.ouro-comdev.com/index.php?title=Server_Setup_for_Making_Bins
 
 To Install:
 
-1. BACKUP YOUR FILES!!!  You never know when something can go horribly ary, so ensure your data\bin and data\server\bin are backed up to revert if necessary.
+1. BACKUP YOUR FILES!!!  You never know when something can go horribly awry, so ensure your data\bin and data\server\bin are backed up to revert if necessary.
 
 2. Place the files in the Primalist\data and Primalist\serverdata folders into the respective "YourServerName"\data and "YourServerName"\serverdata folders.
 
-3. Place the executables from Primalist\Executables into your ROOT directory and overwrite.  If you have compiled changes to the code, you will need to merge the uiStatus.c file that is included in \Source.
+3. Place the executables from Primalist\Executables into your ROOT directory and overwrite.  If you have compiled changes to the code in any capacity, you will need to merge the uiStatus.c file that is included in Primalist\Executables\Source.  Instructions to do so can be found here:  https://ourowiki.ouro-comdev.com/index.php?title=Volume_2_Build
 
-4. Bin the server and create your templates.
+4. Bin the server using: 
+  - mapserver.exe -createbins -verbose 2
+  - Ouroboros.exe -createbins -verbose 2 -project cov
+
+6. Create your templates
+  - mapserver.exe -productionmode -templates
 
 5. Start your server.
 
-6. Hopefully the Primalist Special Archetype will now show beneath Warshades.
+6. The Primalist Special Archetype will now show beneath Warshades.
 
 //////////////////////////////////////////
 
