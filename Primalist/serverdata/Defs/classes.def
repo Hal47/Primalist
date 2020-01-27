@@ -7,8 +7,8 @@ include defs/classes/PC_Scrapper.def
 include defs/classes/PC_Tanker.def
 include defs/classes/PC_Peacebringer.def
 include defs/classes/PC_Warshade.def
-include defs/classes/PC_Sentinel.def
-include defs/classes/PC_Guardian.def
+//include defs/classes/PC_Sentinel.def
+//include defs/classes/PC_Guardian.def
 
 // Following line added by XLStoClassDef.bat ver 58
 //include defs/classes/PC_Rescued_Devoured.def
