@@ -1,7 +1,7 @@
 # Primalist
 Greetings all!
 
-This is my first ever content "release" for any game, so learning pains are to be expected.  Any questions, do not hesitate to reach out:
+This is my first content "release" for any game, so learning pains are to be expected.  Any questions, do not hesitate to reach out:
 
 u/brw316 on reddit
 
@@ -51,3 +51,6 @@ To Install:
 
 To reiterate, this is the first release I have ever done, so have patience while I try to navigate this process. Play and leave feedback!!!
 
+//////////////////////////////////////////
+
+To Do: Add screenshots to Archetype selection page.
