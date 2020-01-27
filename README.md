@@ -53,4 +53,16 @@ To reiterate, this is the first release I have ever done, so have patience while
 
 //////////////////////////////////////////
 
-To Do: Add screenshots to Archetype selection page.
+To Do: 
+Add screenshots to Archetype selection page.
+Get bins for i25/i26
+
+//////////////////////////////////////////
+
+Special thanks to:
+
+Zach_little, darwinasm86, malonkey1, Bubblewrap and Fuzzy_c for assistance in navigating the technical side as well as testing.
+
+
+SilverAgeFan and OrangeBlueHue for the design of the archetype icon.
+
