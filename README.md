@@ -54,6 +54,9 @@ To reiterate, this is the first release I have ever done, so have patience while
 //////////////////////////////////////////
 
 To Do: 
+
+Provide a cleaner texture for AT icon
+ 
 Add screenshots to Archetype selection page.
 
 Get bins for i25/i26
