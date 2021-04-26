@@ -88,7 +88,7 @@ Power Primalist_Misc.Primal_Form_Powers.Feral_Blow_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -287,7 +287,7 @@ Power Primalist_Misc.Primal_Form_Powers.Vicious_Strike_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -486,7 +486,7 @@ Power Primalist_Misc.Primal_Form_Powers.Brutal_Swipe_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -694,7 +694,7 @@ Power Primalist_Misc.Primal_Form_Powers.Primal_Strike_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -1146,7 +1146,7 @@ Power Primalist_Misc.Primal_Form_Powers.Savage_Blow_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.04
+		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -1343,7 +1343,7 @@ Power Primalist_Misc.Primal_Form_Powers.Primal_Howl_Primal
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.06
+		Scale                0.3
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue

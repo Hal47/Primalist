@@ -190,7 +190,7 @@ Power Primalist_Misc.Prowler_Form_Powers.Feral_Blow_Prowler
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -498,7 +498,7 @@ Power Primalist_Misc.Prowler_Form_Powers.Vicious_Strike_Prowler
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -806,7 +806,7 @@ Power Primalist_Misc.Prowler_Form_Powers.Brutal_Swipe_Prowler
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -1113,7 +1113,7 @@ Power Primalist_Misc.Prowler_Form_Powers.Primal_Strike_Prowler
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -1775,7 +1775,7 @@ Power Primalist_Misc.Prowler_Form_Powers.Savage_Blow_Prowler
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.04
+		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue

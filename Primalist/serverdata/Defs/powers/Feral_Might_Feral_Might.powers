@@ -164,7 +164,7 @@ Power Feral_Might.Feral_Might.Feral_Blow
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -439,7 +439,7 @@ Power Feral_Might.Feral_Might.Vicious_Strike
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -714,7 +714,7 @@ Power Feral_Might.Feral_Might.Brutal_Swipe
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -2060,7 +2060,7 @@ Power Feral_Might.Feral_Might.Primal_Strike
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -2756,7 +2756,7 @@ Power Feral_Might.Feral_Might.Pounce
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.02
+		Scale                0.1
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -2778,7 +2778,7 @@ Power Feral_Might.Feral_Might.Pounce
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.04
+		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
@@ -3797,7 +3797,7 @@ Power Feral_Might.Feral_Might.Savage_Blow
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.04
+		Scale                0.2
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue

@@ -2319,7 +2319,7 @@ Power Primal_Gifts.Primal_Gift.Primal_Howl
 		Aspect               kCur
 		Attrib               kRage
 		Target               kSelf
-		Scale                0.06
+		Scale                0.3
 		Type                 kMagnitude
 		AllowStrength        kFalse
 		AllowResistance      kTrue
